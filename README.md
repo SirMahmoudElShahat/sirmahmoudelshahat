@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mahmoud Elshahat, and I'm a Mobile App Developer | DEPI Graduate (Java, Kotlin & Flutter) | Focused on Flutter | Computer Science Student from Egypt.</p>
+<p align="left">My name is Mahmoud El-Shahat, and I'm a Mobile App Developer | DEPI Graduate (Java, Kotlin & Flutter) | Focused on Flutter | Computer Science Student from Egypt.</p>
 
 ###
 
