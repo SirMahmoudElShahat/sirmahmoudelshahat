@@ -33,31 +33,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase,git,vscode,androidstudio" height="40" alt="Firebase, Git, VS Code, Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
 </div>
-
----
-
-<h2 align="left">✨ Featured Projects</h2>
-
-<p align="left">
-  Here are some projects that showcase my skills and passion for Flutter development:
-</p>
-
-- <strong>[Project Name 1]</strong>: A brief description of Project 1, highlighting key features and technologies used. [Link to Repo](https://github.com/SirMahmoudElShahat/project1)
-- <strong>[Project Name 2]</strong>: A brief description of Project 2, highlighting key features and technologies used. [Link to Repo](https://github.com/SirMahmoudElShahat/project2)
-- <strong>[Project Name 3]</strong>: A brief description of Project 3, highlighting key features and technologies used. [Link to Repo](https://github.com/SirMahmoudElShahat/project3)
-
----
-
-<h2 align="left">🏆 Achievements & Certifications</h2>
-
-<p align="left">
-  I believe in continuous learning and growth. Here are some of my notable achievements and certifications:
-</p>
-
-- 🏅 <strong>[Achievement/Certification Name 1]</strong>: Briefly describe the achievement or certification and what it signifies.
-- 🎓 <strong>[Achievement/Certification Name 2]</strong>: Briefly describe the achievement or certification and what it signifies.
 
 ---
 
@@ -79,22 +62,6 @@
 
 <p align="center">
   Thanks for visiting my profile! Let's connect and build something amazing together.
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SirMahmoudElShahat/count.svg" alt="Visitor Count" />
-</p>
-
----
-
-
-
-
-<p align="center">
-  <img src="/home/ubuntu/upload/search_images/QyluLfvHP4oi.jpg" alt="Flutter Developer Banner" />
 </p>
 
 ---
