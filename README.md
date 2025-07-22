@@ -44,12 +44,13 @@
 
 ---
 
-<h2 align="left">📈 GitHub Stats</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
-<p align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SirMahmoudElShahat&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirMahmoudElShahat&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
