@@ -36,7 +36,7 @@
 
 <h2 align="left">📫 Contact Me</h2>
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](http://www.linkedin.com/in/mahm0udelshahat))  
+- 💼 [LinkedIn](http://www.linkedin.com/in/mahm0udelshahat) 
 - 📧 Email: sirmahmoudelshahat@gmail.com
 
 ---
@@ -44,5 +44,5 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SirMahmoudElShahat&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
