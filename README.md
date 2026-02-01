@@ -46,11 +46,13 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirMahmoudElShahat&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SirMahmoudElShahat&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SirMahmoudElShahat&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SirMahmoudElShahat&theme=radical" />
+</p>
 
 ---
 
